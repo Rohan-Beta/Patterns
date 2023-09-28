@@ -1,5 +1,14 @@
 // reverse half pyramid
 
+/*
+
+   *
+  **
+ ***
+****
+
+*/
+
 import java.util.*;
 
 class Firstclass {
