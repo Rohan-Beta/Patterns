@@ -1,5 +1,14 @@
 // floyd's triangle
 
+/* 
+
+1 
+2 3 
+4 5 6 
+7 8 9 10
+
+*/
+
 import java.util.*;
 
 class Firstclass {
@@ -8,7 +17,7 @@ class Firstclass {
 
         for(int i = 1; i <= 4; i += 1) { // rows
             for(int j = 1; j <= i; j += 1) { // columns
-                System.out.print(num);
+                System.out.print(num +" ");
 
                 num += 1;
             }
