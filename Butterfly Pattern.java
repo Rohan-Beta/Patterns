@@ -1,5 +1,18 @@
 // butterfly pattern
 
+/*
+
+*      *
+**    **
+***  ***
+********
+********
+***  ***
+**    **
+*      *
+
+*/
+
 import java.util.*;
 
 class Firstclass {
