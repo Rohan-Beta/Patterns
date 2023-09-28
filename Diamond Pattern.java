@@ -1,5 +1,18 @@
 // diamond pattern
 
+/*
+
+   * 
+  * * 
+ * * * 
+* * * * 
+* * * * 
+ * * * 
+  * * 
+   *
+
+*/
+ 
 import java.util.*;
 
 class Firstclass {
