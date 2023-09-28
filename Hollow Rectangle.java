@@ -1,5 +1,14 @@
 // hollow rectangle
 
+/* 
+
+*****
+*   *
+*   *
+*****
+
+*/
+
 import java.util.*;
 
 class Firstclass {
