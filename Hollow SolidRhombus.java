@@ -1,5 +1,14 @@
 // solid rhombus
 
+/*
+
+   *****
+  *   *
+ *   *
+*****
+
+*/
+
 import java.util.*;
 
 class Firstclass {
