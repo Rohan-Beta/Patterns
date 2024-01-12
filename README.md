@@ -1,2 +1,2 @@
 # Patterns
-# Using Java
+# Using java
